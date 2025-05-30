@@ -1,6 +1,6 @@
 <body>
 <div>
-<img align="center" src="https://github.com/user-attachments/assets/b2ed723e-8af7-4124-905b-3a1e3e4022f2">
+<img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72961400/449237982-ec1879f4-0b5c-4361-883a-7708c2b522d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250530%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250530T124253Z&X-Amz-Expires=300&X-Amz-Signature=49d15564ea88f45744c01f130c7e6f5e2bb5d950775226f465dd3658a930808f&X-Amz-SignedHeaders=host">
 </div>
 
 <h1 align="center">Hi 👋, I'm Deepanshu Bhardwaj, an Engineering graduate from South East University (Ireland)</h1>
