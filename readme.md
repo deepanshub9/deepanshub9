@@ -1,9 +1,9 @@
 <body>
 <div>
-<img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72961400/449237982-ec1879f4-0b5c-4361-883a-7708c2b522d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250530%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250530T124253Z&X-Amz-Expires=300&X-Amz-Signature=49d15564ea88f45744c01f130c7e6f5e2bb5d950775226f465dd3658a930808f&X-Amz-SignedHeaders=host">
+<img align="center" src="https://i.ibb.co/N2cPbZJs/Deepanshu-Devops-Cloud-engineer.png">
 </div>
 
-<h1 align="center">Hi 👋, I'm Deepanshu Bhardwaj, an Engineering graduate from South East University (Ireland)</h1>
+<h1 align="center">Hi 👋, I'm Deepanshu Bhardwaj, an Engineering graduate from South East Technological University (Ireland)</h1>
 <h3 align="center">DevOps and Cloud Learner, with a passion for Open Source</h3>
 
 - 🌱 I’m currently learning **Golang, Kubernetes**
