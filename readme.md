@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Deepanshu Bhardwaj</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Open Source Contributor</h3>
-<h4 align="center">Engineering Graduate from South East Technological University (Ireland)</h4>
+<h4 align="center">I don't just build secure systems - I CONQUER them.</h4>
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **Golang, Kubernetes, Terraform, GitOps**
+- 🌱 **I'm passionate about building and securing systems the right way — from CI/CD pipelines to cloud deployments — and I believe in shift-left security, automation, and continuous learning to stay ahead of modern threats.**
 - 👯 I'm looking to collaborate on **DevOps, Cloud Infrastructure, Open Source projects**
-- 🤝 I'm looking for help with **Advanced Kubernetes, Service Mesh, Cloud Security**
 - 💬 Ask me about **CI/CD, Infrastructure as Code, Container Orchestration, Cloud Architecture**
 - 📫 How to reach me **deepanshu.b096@gmail.com**
 - ⚡ Fun fact **I automate everything, even my coffee machine! ☕**
@@ -21,6 +20,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-cloud" width="40" height="40"/> </a>
 </p>
 
 ### 📦 Container & Orchestration
@@ -106,7 +106,7 @@
 
 ## 📚 Latest Blog Posts
 
-URL: <a href="https://www.linkedin.com/in/deepanshub/recent-activity/all/" target="_blank">Linkedln Post</a>
+URL: <a href="https://dev.to/deepanshub09" target="_blank">Blog</a>
 
 ## 🤝 Connect with me
 
