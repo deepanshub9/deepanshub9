@@ -25,11 +25,11 @@ I design resilient cloud platforms, automate delivery pipelines, and embed secur
 ## ☁️ Cloud & Platform Services
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Platform-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
@@ -43,7 +43,7 @@ I design resilient cloud platforms, automate delivery pipelines, and embed secur
   <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="48" height="48"/></a>
   <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="48" height="48"/></a>
   <a href="https://argo-cd.readthedocs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="48" height="48"/></a>
-  <a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="48" height="48"/></a>
+  <a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="48" height="48"/></a>
   <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="48" height="48"/></a>
   <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="48" height="48"/></a>
   <a href="https://www.elastic.co/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="48" height="48"/></a>
